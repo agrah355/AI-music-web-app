@@ -1,0 +1,25 @@
+.haeder{
+    width: 100%;
+    font-size: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    color: white;
+    margin: 0px;
+}
+.note{
+    font-size: 17px;
+    color: black;
+}
+.note b{
+    color: red;
+}
+#song_name{
+    color: white;
+    font-size: 20px;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    border: 5px solid;
+    margin-top: 80px;
+}
